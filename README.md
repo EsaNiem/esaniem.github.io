@@ -1,1 +1,3 @@
-Loading... 44 %
+<h1>Koodia tulossa</h1>
+
+14% Loading...
